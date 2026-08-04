@@ -1,0 +1,1 @@
+# GSSh01-SSh-68-Compat
